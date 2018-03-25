@@ -1,5 +1,5 @@
 %% Product Overview
-% 3D-Directional Statistics, Simulation and Visulaization (3D-SSV) is a
+% 3D-Directional Statistics, Simulation and Visualization (3D-SSV) is a
 % fast, accurate, and convenient way to calculate, simulate, and visualize
 % from 3-dimensional spherical distributions.  In addition to the ability
 % to simulate from the entire family of Fisher-Bingham distributions, what
@@ -59,7 +59,7 @@
 % kappa = 4.2;
 % bet = 4.5 ;  % beta
 % gamm = -3.5; % gamma
-% Psi=  pi/2;  °% for rotation to the new frame of reference
+% Psi=  pi/2;  Â°% for rotation to the new frame of reference
 %
 % Mu=[0 0 1];  % for rotating the North pole to Mu
 %
